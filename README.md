@@ -1,3 +1,2 @@
-# Repo01_ Hello out there!
-First tryout for Git Tutorial
-This look easy to go so far
+# RProgRepo
+Analysis of Superstore Sales dataset to generate the statistics and visualize my shopping list for the day with R programming language
